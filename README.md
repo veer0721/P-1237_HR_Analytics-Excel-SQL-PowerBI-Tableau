@@ -12,7 +12,7 @@ The objective is to extract meaningful insights using SQL and present them throu
 - Tableau Public (Data visualization and dashboard)
 - PowerPoint (Business insights, recommendations, and conclusions)
 
-
+---
 📊 Microsoft Excel
 (Data Cleaning, Data Transformation, Pivot Tables, Charts, KPIs & Dashboard)
 
@@ -28,7 +28,7 @@ The objective is to extract meaningful insights using SQL and present them throu
 
 📌 Used slicers and charts for dynamic filtering and reporting.
 
-
+---
 📊 MySQL
 (Database Creation, Data Loading, SQL Queries & Analysis)
 
@@ -46,7 +46,7 @@ The objective is to extract meaningful insights using SQL and present them throu
 
 📌 Prepared structured datasets for Power BI and Tableau visualization.
 
-
+---
 📊 Power BI Desktop
 (Interactive Dashboard & Business Intelligence)
 
@@ -68,7 +68,7 @@ The objective is to extract meaningful insights using SQL and present them throu
 
 📌 Developed a professional business intelligence dashboard for decision-making.
 
-
+---
 📊 Tableau Public
 (Data Visualization & Dashboard)
 
@@ -82,7 +82,7 @@ The objective is to extract meaningful insights using SQL and present them throu
 
 📌 Built dashboards to understand trends, performance, and forcasting.
 
-
+---
 📊 PowerPoint
 (Business Insights & Recommendations)
 
@@ -132,7 +132,7 @@ The objective is to extract meaningful insights using SQL and present them throu
 
 
 
-
+---
 📁 Project Files Included
 - Excel Files
 - SQL Queries
