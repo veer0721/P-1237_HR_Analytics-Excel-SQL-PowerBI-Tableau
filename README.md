@@ -97,35 +97,35 @@ The objective is to extract meaningful insights using SQL and present them throu
 📌 Summarized the overall project outcomes and business impact.
 
 # 📌 Key Business Insights
-- High attrition is observed in Sales and low-income employees, indicating job pressure and compensation-related issues.
-- Employees without timely promotions show higher exit rates due to lack of career growth opportunities.
-- Work-life balance significantly impacts employee retention, with higher stress leading to increased turnover.
-- Salary, job satisfaction, and growth opportunities are the key drivers influencing employee behavior.
-- Employee engagement and recognition levels also play an important role in retention.
+1. High attrition is observed in Sales and low-income employees, indicating job pressure and compensation-related issues.
+2. Employees without timely promotions show higher exit rates due to lack of career growth opportunities.
+3. Work-life balance significantly impacts employee retention, with higher stress leading to increased turnover.
+4. Salary, job satisfaction, and growth opportunities are the key drivers influencing employee behavior.
+5. Employee engagement and recognition levels also play an important role in retention.
 
 
 # 📌 IMPROVEMENTS
-- Improve salary structure and introduce incentives for low-income employees to enhance retention
-- Provide timely promotions, training, and clear career growth paths to keep employees motivated
-- Enhance work-life balance through flexible policies and better workload management.
-- Focus on employee engagement, feedback systems, and support in high-attrition departments.
-- Implement regular performance reviews and recognition programs to boost morale.
+1. Improve salary structure and introduce incentives for low-income employees to enhance retention
+2. Provide timely promotions, training, and clear career growth paths to keep employees motivated
+3. Enhance work-life balance through flexible policies and better workload management.
+4. Focus on employee engagement, feedback systems, and support in high-attrition departments.
+5. Implement regular performance reviews and recognition programs to boost morale.
 
   
 # 📌 Key Challenges
-- Raw dataset had missing values and inconsistent formats, which affected calculations and analysis.
-- Difficulty in correctly calculating attrition rate (initial confusion between % of total vs actual ratio).
-- Creating consistent KPIs across Excel, SQL, Tableau, and Power BI was challenging.
-- Issues in grouping fields like Income Category and Promotion Range for meaningful analysis.
-- Performance issues in Power BI due to large dataset and multiple visuals.
+1. Raw dataset had missing values and inconsistent formats, which affected calculations and analysis.
+2. Difficulty in correctly calculating attrition rate (initial confusion between % of total vs actual ratio).
+3. Creating consistent KPIs across Excel, SQL, Tableau, and Power BI was challenging.
+4. Issues in grouping fields like Income Category and Promotion Range for meaningful analysis.
+5. Performance issues in Power BI due to large dataset and multiple visuals.
 
 # 📌  Solutions
-- Cleaned and standardized data in Excel and SQL by handling missing values and correcting formats.
-- Used proper logic (CASE WHEN / Attrition Flag) to calculate accurate attrition rate.
-- Cross-verified KPIs across tools to maintain consistency in results.
-- Created calculated columns for Income Category and Promotion Groups to simplify analysis.
-- Optimized Power BI by removing unnecessary columns and reducing visuals for better performance.
-- Implemented consistent visual design principles in Power BI/Tableau, selecting appropriate charts for KPIs.
+1. Cleaned and standardized data in Excel and SQL by handling missing values and correcting formats.
+2. Used proper logic (CASE WHEN / Attrition Flag) to calculate accurate attrition rate.
+3. Cross-verified KPIs across tools to maintain consistency in results.
+4. Created calculated columns for Income Category and Promotion Groups to simplify analysis.
+5. Optimized Power BI by removing unnecessary columns and reducing visuals for better performance.
+6. Implemented consistent visual design principles in Power BI/Tableau, selecting appropriate charts for KPIs.
 
 
 
