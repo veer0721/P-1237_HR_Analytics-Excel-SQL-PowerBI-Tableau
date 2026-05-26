@@ -97,11 +97,11 @@ I used the following tools and technologies for this complete data analytics pro
 📌 Summarized the overall project outcomes and business impact.
 
 📌 Key Business Insights
-    - High attrition is observed in Sales and low-income employees, indicating job pressure and compensation-related issues.
-    - Employees without timely promotions show higher exit rates due to lack of career growth opportunities.
-    - Work-life balance significantly impacts employee retention, with higher stress leading to increased turnover.
-    - Salary, job satisfaction, and growth opportunities are the key drivers influencing employee behavior.
-    - Employee engagement and recognition levels also play an important role in retention.
+- High attrition is observed in Sales and low-income employees, indicating job pressure and compensation-related issues.
+- Employees without timely promotions show higher exit rates due to lack of career growth opportunities.
+- Work-life balance significantly impacts employee retention, with higher stress leading to increased turnover.
+- Salary, job satisfaction, and growth opportunities are the key drivers influencing employee behavior.
+- Employee engagement and recognition levels also play an important role in retention.
 
 
 📌 IMPROVEMENTS
