@@ -6,11 +6,11 @@ The objective is to extract meaningful insights using SQL and present them throu
 
 I used the following tools and technologies for this complete data analytics project:
 
-Microsoft Excel (Data cleaning, transformation, Pivot Tables, KPIs, Dashboard)
-MySQL (Database creation, data loading, SQL analysis)
-Power BI Desktop (Interactive dashboard creation and visualization)
-Tableau Public (Data visualization and dashboard)
-PowerPoint (Business insights, recommendations, and conclusions)
+- Microsoft Excel (Data cleaning, transformation, Pivot Tables, KPIs, Dashboard)
+- MySQL (Database creation, data loading, SQL analysis)
+- Power BI Desktop (Interactive dashboard creation and visualization)
+- Tableau Public (Data visualization and dashboard)
+- PowerPoint (Business insights, recommendations, and conclusions)
 
 
 📊 Microsoft Excel
