@@ -145,4 +145,4 @@ The objective is to extract meaningful insights using SQL and present them throu
 
 
 📌 Note
-Some files and datasets are uploaded in different formats and a few files may be missing due to file size or platform limitations. The uploaded content is shared for project authenticity and portfolio purposes.
+    - Some files and datasets are uploaded in different formats and a few files may be missing due to file size or platform limitations. The uploaded content is shared for project authenticity and portfolio purposes.
