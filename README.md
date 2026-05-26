@@ -96,7 +96,7 @@ The objective is to extract meaningful insights using SQL and present them throu
 
 📌 Summarized the overall project outcomes and business impact.
 
-📌 Key Business Insights
+# 📌 Key Business Insights
 - High attrition is observed in Sales and low-income employees, indicating job pressure and compensation-related issues.
 - Employees without timely promotions show higher exit rates due to lack of career growth opportunities.
 - Work-life balance significantly impacts employee retention, with higher stress leading to increased turnover.
@@ -104,7 +104,7 @@ The objective is to extract meaningful insights using SQL and present them throu
 - Employee engagement and recognition levels also play an important role in retention.
 
 
-📌 IMPROVEMENTS
+# 📌 IMPROVEMENTS
 - Improve salary structure and introduce incentives for low-income employees to enhance retention
 - Provide timely promotions, training, and clear career growth paths to keep employees motivated
 - Enhance work-life balance through flexible policies and better workload management.
@@ -112,14 +112,14 @@ The objective is to extract meaningful insights using SQL and present them throu
 - Implement regular performance reviews and recognition programs to boost morale.
 
   
-📌 Key Challenges
+# 📌 Key Challenges
 - Raw dataset had missing values and inconsistent formats, which affected calculations and analysis.
 - Difficulty in correctly calculating attrition rate (initial confusion between % of total vs actual ratio).
 - Creating consistent KPIs across Excel, SQL, Tableau, and Power BI was challenging.
 - Issues in grouping fields like Income Category and Promotion Range for meaningful analysis.
 - Performance issues in Power BI due to large dataset and multiple visuals.
 
-📌  Solutions
+# 📌  Solutions
 - Cleaned and standardized data in Excel and SQL by handling missing values and correcting formats.
 - Used proper logic (CASE WHEN / Attrition Flag) to calculate accurate attrition rate.
 - Cross-verified KPIs across tools to maintain consistency in results.
