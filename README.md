@@ -105,27 +105,27 @@ I used the following tools and technologies for this complete data analytics pro
 
 
 📌 IMPROVEMENTS
-    - Improve salary structure and introduce incentives for low-income employees to enhance retention
-    - Provide timely promotions, training, and clear career growth paths to keep employees motivated
-    - Enhance work-life balance through flexible policies and better workload management.
-    - Focus on employee engagement, feedback systems, and support in high-attrition departments.
-    - Implement regular performance reviews and recognition programs to boost morale.
+- Improve salary structure and introduce incentives for low-income employees to enhance retention
+- Provide timely promotions, training, and clear career growth paths to keep employees motivated
+- Enhance work-life balance through flexible policies and better workload management.
+- Focus on employee engagement, feedback systems, and support in high-attrition departments.
+- Implement regular performance reviews and recognition programs to boost morale.
 
   
 📌 Key Challenges
-    - Raw dataset had missing values and inconsistent formats, which affected calculations and analysis.
-    - Difficulty in correctly calculating attrition rate (initial confusion between % of total vs actual ratio).
-    - Creating consistent KPIs across Excel, SQL, Tableau, and Power BI was challenging.
-    - Issues in grouping fields like Income Category and Promotion Range for meaningful analysis.
-    - Performance issues in Power BI due to large dataset and multiple visuals.
+- Raw dataset had missing values and inconsistent formats, which affected calculations and analysis.
+- Difficulty in correctly calculating attrition rate (initial confusion between % of total vs actual ratio).
+- Creating consistent KPIs across Excel, SQL, Tableau, and Power BI was challenging.
+- Issues in grouping fields like Income Category and Promotion Range for meaningful analysis.
+- Performance issues in Power BI due to large dataset and multiple visuals.
 
 📌  Solutions
-    - Cleaned and standardized data in Excel and SQL by handling missing values and correcting formats.
-    - Used proper logic (CASE WHEN / Attrition Flag) to calculate accurate attrition rate.
-    - Cross-verified KPIs across tools to maintain consistency in results.
-    - Created calculated columns for Income Category and Promotion Groups to simplify analysis.
-    - Optimized Power BI by removing unnecessary columns and reducing visuals for better performance.
-    - Implemented consistent visual design principles in Power BI/Tableau, selecting appropriate charts for KPIs.
+- Cleaned and standardized data in Excel and SQL by handling missing values and correcting formats.
+- Used proper logic (CASE WHEN / Attrition Flag) to calculate accurate attrition rate.
+- Cross-verified KPIs across tools to maintain consistency in results.
+- Created calculated columns for Income Category and Promotion Groups to simplify analysis.
+- Optimized Power BI by removing unnecessary columns and reducing visuals for better performance.
+- Implemented consistent visual design principles in Power BI/Tableau, selecting appropriate charts for KPIs.
 
 
 
