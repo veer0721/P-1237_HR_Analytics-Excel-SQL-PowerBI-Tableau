@@ -4,7 +4,7 @@ This project focuses on analyzing employee attrition, salary trends, and workfor
 The objective is to extract meaningful insights using SQL and present them through interactive dashboards in Power BI, Tableau, and Excel.
 
 
-🛠 ## I used the following tools and technologies for this complete data analytics project:
+## 🛠 I used the following tools and technologies for this complete data analytics project:
 
 - Microsoft Excel (Data cleaning, transformation, Pivot Tables, KPIs, Dashboard)
 - MySQL (Database creation, data loading, SQL analysis)
